@@ -1,0 +1,1823 @@
+Package: agetty
+Version: 2.39.3-r1
+Depends: libc, librt
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 51200
+Filename: agetty_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 23768
+SHA256sum: 1ba154a01a26b6594751bf827fbeb6fd44fef8719f506704fe82484da1acf898
+Description:  agetty opens a tty port, prompts for a login name and invokes the
+ /bin/login command
+
+Package: blkdiscard
+Version: 2.39.3-r1
+Depends: libc, libblkid1
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 30720
+Filename: blkdiscard_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 11617
+SHA256sum: dfdc3fe1d135b102339c08df8418751d87e1ae9da1c159a5f76c16f0b90c4e15
+Description:  The blkdiscard is used to discard device sectors. This is useful for
+ solid-state drivers (SSDs) and thinly-provisioned storage. Unlike fstrim,
+ this command is used directly on the block device.
+
+Package: blkid
+Version: 2.39.3-r1
+Depends: libc, libblkid1, libuuid1
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 102400
+Filename: blkid_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 45974
+SHA256sum: 8143fa077a0aacf78d920adf07934b9d965d3c7b0706c8ec46a5d4c2ce014ec3
+Description:  The blkid program is the command-line interface to working with the libblkid
+ library.
+
+Package: blockdev
+Version: 2.39.3-r1
+Depends: libc, librt
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 61440
+Filename: blockdev_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 28394
+SHA256sum: 0cccfa9df2fc53b1a5738351182327a0ff870d9926ce36222385d7e787eee62d
+Description:  The blockdev program is the command-line interface to call block device ioctls.
+
+Package: cal
+Version: 2.39.3-r1
+Depends: libc, libncurses6
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 51200
+Filename: cal_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 24173
+SHA256sum: c8d95f9626bdc108c13ded6ae2cdc0fcf48219de599595b6aa05fa67763cae84
+Description:  cal displays a simple calendar
+
+Package: cfdisk
+Version: 2.39.3-r1
+Depends: libc, libblkid1, libncurses6, libsmartcols1, libfdisk1, libmount1
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 81920
+Filename: cfdisk_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 36966
+SHA256sum: 6d97fac3180b835272a73ceba20119204e2e4e0e443f23dc11db8a5748a7c2e1
+Description:  cfdisk is a curses-based program for partitioning any hard disk drive
+
+Package: colrm
+Version: 2.39.3-r1
+Depends: libc
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 20480
+Filename: colrm_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 9118
+SHA256sum: 3d943d8e42182979d06e8984ef8db4942e34e2682783cdd95397327629625421
+Description:  colrm removes selected columns from a file. Input is taken from
+ standard input. Output is sent to standard output.
+
+Package: dmesg
+Version: 2.39.3-r1
+Depends: libc, libncursesw6
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 61440
+Filename: dmesg_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 26672
+SHA256sum: 54e339c12e9c367aa85784e07efb4fae0b306a57e546e2a56ad384a9fef39f00
+Description:  dmesg  is used to examine or control the kernel ring buffer
+
+Package: eject
+Version: 2.39.3-r1
+Depends: libc, libblkid1, libmount1, libuuid1
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 71680
+Filename: eject_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 30137
+SHA256sum: 0cb7df60791970437fd0a03893db5d23750111eb9b835b1f7ca9eac85fb8ded0
+Description:  eject allows removable media (typically a CD-ROM, floppy disk, tape, or JAZ
+ or ZIP disk) to be ejected under software control.
+
+Package: fdisk
+Version: 2.39.3-r1
+Depends: libc, libblkid1, libsmartcols1, libfdisk1, libncursesw6
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 122880
+Filename: fdisk_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 53261
+SHA256sum: 88aa7fc06bc3cb1dd230ad0f047f5db7ccc9d29e3e6b2c91ac19f65d39f36f47
+Description:  a menu-driven program for creation and manipulation of partition tables
+
+Package: findfs
+Version: 2.39.3-r1
+Depends: libc, libblkid1
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 20480
+Filename: findfs_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 3262
+SHA256sum: 5cedbdf481a87c695fcd813e82ea013c2c2c34e0affb74dad7beb5494acbe731
+Description:  findfs will search the disks in the system looking for a filesystem which has
+ a label matching label or a UUID equal to uuid
+
+Package: flock
+Version: 2.39.3-r1
+Depends: libc, librt
+Alternatives: 200:/usr/bin/flock:/usr/bin/util-linux-flock
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 30720
+Filename: flock_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 11640
+SHA256sum: e6dbd1f92937127da0ecce6c3c15f2d50b42607d964dd8b8e3db0fb1c1c0922f
+Description:  manages flock locks from within shell scripts or the command line
+
+Package: fstrim
+Version: 2.39.3-r1
+Depends: libc, libblkid1, libuuid1, libsmartcols1, libmount1
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 61440
+Filename: fstrim_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 28415
+SHA256sum: d0861447f562df8097c1163f649dc6b913541f6973b1ce0dd2a33f6e68eb56e7
+Description:  fstrim is used on a mounted filesystem to discard (or "trim") blocks
+ which are not in use by the filesystem.  This is useful for solid-
+ state drives (SSDs) and thinly-provisioned storage.
+
+Package: getopt
+Version: 2.39.3-r1
+Depends: libc, librt
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 30720
+Filename: getopt_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 10863
+SHA256sum: 8939d62f1501c45b124fb1870ee53a333d547350556049bb6ee7fc6e8bc2ecc9
+Description:  getopt is used to break up (parse) options in command lines for easy parsing
+ by shell procedures, and to check for legal options
+
+Package: getrandom
+Version: 2024.04.26~85f10530-r1
+Depends: libc
+Source: feeds/base/package/system/ubox
+SourceName: ubox
+License: GPL-2.0
+Section: base
+SourceDateEpoch: 1714217653
+Maintainer: John Crispin <john@phrozen.org>
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 10240
+Filename: getrandom_2024.04.26~85f10530-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 2219
+SHA256sum: 53007f1cd846d6ab54d63697d0b311466ca0cb354fb1717aa02d80ac5cd3c846
+Description:  OpenWrt getrandom system helper
+
+Package: hwclock
+Version: 2.39.3-r1
+Depends: libc, librt
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 81920
+Filename: hwclock_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 35927
+SHA256sum: 2633ab4b09cc7c838fddfc7afd90ded94cce2d6ae0b266087b5757bbd628a28c
+Description:  hwclock is a tool for accessing the Hardware Clock
+
+Package: ipcs
+Version: 2.39.3-r1
+Depends: libc, librt
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 61440
+Filename: ipcs_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 24165
+SHA256sum: 1db312ce25290d3060dc2d743a395fa07f3f01b1023bb036fde8a068ba215c2f
+Description:  ipcs shows information on the inter-process communication facilities for
+ which the calling process has read access. By default it shows information
+ about all three resources: shared memory segments, message queues, and
+ semaphore arrays.
+
+Package: jshn
+Version: 2024.03.29~eb9bcb64-r1
+Depends: libc, libjson-c5, libubox20240329, libblobmsg-json20240329
+Source: feeds/base/package/libs/libubox
+SourceName: libubox
+License: ISC
+Section: utils
+SourceDateEpoch: 1712395458
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 30720
+Filename: jshn_2024.03.29~eb9bcb64-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 7180
+SHA256sum: 73c9c37deb8f3b65693779388e84676f9fa9b6c20df9b929ef9530caaf3fb81b
+Description:  Library for parsing and generating JSON from shell scripts
+
+Package: jsonfilter
+Version: 2024.01.23~594cfa86-r1
+Depends: libc, libubox20240329, libjson-c5
+Source: feeds/base/package/utils/jsonfilter
+SourceName: jsonfilter
+License: ISC
+Section: base
+SourceDateEpoch: 1712395458
+URL: https://git.openwrt.org/project/jsonpath.git
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 30720
+Filename: jsonfilter_2024.01.23~594cfa86-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 9929
+SHA256sum: 1706d1130b37de6747e6ae1b0c1f17390bb9379a70aadaa2b71500c2a0695352
+Description:  OpenWrt JSON filter utility
+
+Package: libblkid1
+Version: 2.39.3-r1
+Depends: libc, libuuid1
+Provides: libblkid
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: libs
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+ABIVersion: 1
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 225280
+Filename: libblkid1_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 108544
+SHA256sum: ea62988d2ee0acbfffe7559a07513f4a2c948b79097a99191c4b2747b3b9afea
+Description:  The libblkid library is used to identify block devices (disks) as to their
+ content (e.g. filesystem type, partitions) as well as extracting additional
+ information such as filesystem labels/volume names, partitions, unique
+ identifiers/serial numbers...
+
+Package: libblobmsg-json20240329
+Version: 2024.03.29~eb9bcb64-r1
+Depends: libc, libjson-c5, libubox20240329
+Provides: libblobmsg-json
+Source: feeds/base/package/libs/libubox
+SourceName: libubox
+License: ISC
+Section: libs
+SourceDateEpoch: 1712395458
+ABIVersion: 20240329
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 20480
+Filename: libblobmsg-json20240329_2024.03.29~eb9bcb64-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 4239
+SHA256sum: 7219a7285dd4d2c211206863ace4435472970c0ad6cf7d71776aec7bf9239564
+Description:  blobmsg <-> json conversion library
+
+Package: libfdisk1
+Version: 2.39.3-r1
+Depends: libc, libuuid1, libblkid1
+Provides: libfdisk
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: libs
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+ABIVersion: 1
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 327680
+Filename: libfdisk1_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 150891
+SHA256sum: 6fd2b1bcf7a59a14f90a9142f4ab9715f606acd0381ec38bf07da2a6c7870aaf
+Description:  The libfdisk library is used for manipulating with partition tables.
+
+Package: libjson-c5
+Version: 0.17-r1
+Depends: libc
+Provides: libjson-c
+Source: feeds/base/package/libs/libjson-c
+SourceName: json-c
+License: MIT
+LicenseFiles: COPYING
+Section: libs
+SourceDateEpoch: 1714254260
+URL: https://json-c.github.io/json-c/
+ABIVersion: 5
+CPE-ID: cpe:/a:json-c:json-c
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 61440
+Filename: libjson-c5_0.17-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 25577
+SHA256sum: 61026a9f1a430a4b4264ded1e41ea801cfc9b62681bbf2c4c1fbb1bac4ff6698
+Description:  This package contains a library for javascript object notation backends.
+
+Package: libjson-script20240329
+Version: 2024.03.29~eb9bcb64-r1
+Depends: libc, libubox20240329
+Provides: libjson-script
+Source: feeds/base/package/libs/libubox
+SourceName: libubox
+License: ISC
+Section: utils
+SourceDateEpoch: 1712395458
+ABIVersion: 20240329
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 20480
+Filename: libjson-script20240329_2024.03.29~eb9bcb64-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 5009
+SHA256sum: 7cabebbe90e7cde49e6579d9eedd6837c0bce062ca93b00137101aad3bbc6d79
+Description:  Minimalistic JSON based scripting engine
+
+Package: liblua5.1.5
+Version: 5.1.5-r11
+Depends: libc
+Provides: liblua
+Source: feeds/base/package/utils/lua
+SourceName: lua
+License: MIT
+LicenseFiles: COPYRIGHT
+Section: libs
+SourceDateEpoch: 1708131321
+URL: https://www.lua.org/
+ABIVersion: 5.1.5
+CPE-ID: cpe:/a:lua:lua
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 133120
+Filename: liblua5.1.5_5.1.5-r11_arm_cortex-a9_vfpv3-d16.ipk
+Size: 61725
+SHA256sum: ae24b261b8703aac7cfc17da1c25425327de133a0dcab4f00884b89ec274b709
+Description:  Lua is a powerful light-weight programming language designed for extending 
+ applications. Lua is also frequently used as a general-purpose, stand-alone 
+ language. Lua is free software.
+ This package contains the Lua shared libraries, needed by other programs.
+
+Package: libmount1
+Version: 2.39.3-r1
+Depends: libc, libblkid1
+Provides: libmount
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: libs
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+ABIVersion: 1
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 317440
+Filename: libmount1_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 139732
+SHA256sum: b30514071cf9f32040c6e05e0c7c2a10b1330441ee02a44d2a3b9421c0726ad3
+Description:  The libmount library is used to parse /etc/fstab, /etc/mtab and
+ /proc/self/mountinfo files, manage the mtab file, evaluate mount options...
+
+Package: libncurses-dev
+Version: 6.4-r2
+Depends: libc, zlib
+Source: feeds/base/package/libs/ncurses
+SourceName: ncurses
+License: MIT
+LicenseFiles: README
+Section: devel
+SourceDateEpoch: 1677370322
+CPE-ID: cpe:/a:gnu:ncurses
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 870400
+Filename: libncurses-dev_6.4-r2_arm_cortex-a9_vfpv3-d16.ipk
+Size: 247046
+SHA256sum: 65e466ba32986fd80ed04a1847e56a9f25fcd2194656be70cfa12e410ae26003
+Description:  Development files for the ncurses library
+
+Package: libncurses6
+Version: 6.4-r2
+Depends: libc, terminfo
+Provides: libncursesw, libncurses, libncursesw6
+Source: feeds/base/package/libs/ncurses
+SourceName: ncurses
+License: MIT
+LicenseFiles: README
+Section: libs
+SourceDateEpoch: 1677370322
+URL: http://www.gnu.org/software/ncurses/
+ABIVersion: 6
+CPE-ID: cpe:/a:gnu:ncurses
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 358400
+Filename: libncurses6_6.4-r2_arm_cortex-a9_vfpv3-d16.ipk
+Size: 156977
+SHA256sum: 01e5b355a5461fb2146d73876988ce5d24b0b6e21929c2d1e9427cd7bb38c663
+Description:  Terminal handling library (Unicode)
+
+Package: libnl-tiny1
+Version: 2023.12.05~965c4bf4-r1
+Depends: libc
+Provides: libnl-tiny
+Source: feeds/base/package/libs/libnl-tiny
+SourceName: libnl-tiny
+License: LGPL-2.1
+Section: libs
+SourceDateEpoch: 1712395458
+ABIVersion: 1
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 30720
+Filename: libnl-tiny1_2023.12.05~965c4bf4-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 13607
+SHA256sum: 732f7a3480eb67c4253c0c9ff4c3e58af5d67cfada316f6caab5a6d2bbbcd201
+Description:  This package contains a stripped down version of libnl
+
+Package: libsmartcols1
+Version: 2.39.3-r1
+Depends: libc, librt
+Provides: libsmartcols
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: libs
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+ABIVersion: 1
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 102400
+Filename: libsmartcols1_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 41077
+SHA256sum: bf488e4ffefe5e39ccab1cc2833ba2e396fcb3f71f68cf4c62af84a990626079
+Description:  The smartcols library is used to print tables and trees in a pretty way.
+
+Package: libubox-lua
+Version: 2024.03.29~eb9bcb64-r1
+Depends: libc, libubox20240329, liblua5.1.5
+Source: feeds/base/package/libs/libubox
+SourceName: libubox
+License: ISC
+Section: libs
+SourceDateEpoch: 1712395458
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 20480
+Filename: libubox-lua_2024.03.29~eb9bcb64-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 5648
+SHA256sum: f7e4f2934a86e3b20d386b7886d8cb4e644dccfb339c00a9a99b80fb9dbb20f3
+Description:  Lua binding for the OpenWrt Basic utility library
+
+Package: libubox20240329
+Version: 2024.03.29~eb9bcb64-r1
+Depends: libc
+Provides: libubox
+Source: feeds/base/package/libs/libubox
+SourceName: libubox
+License: ISC
+Section: libs
+SourceDateEpoch: 1712395458
+ABIVersion: 20240329
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 61440
+Filename: libubox20240329_2024.03.29~eb9bcb64-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 24984
+SHA256sum: 6cc90fddef36d8d15764efc3f1fe9cd220b8ff6759a164de41c51657d6c64543
+Description:  Basic utility library
+
+Package: libubus-lua
+Version: 2023.11.28~f84eb599-r1
+Depends: libc, libubus20231128, liblua5.1.5
+Source: feeds/base/package/system/ubus
+SourceName: ubus
+License: LGPL-2.1
+Section: libs
+SourceDateEpoch: 1712395458
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 20480
+Filename: libubus-lua_2023.11.28~f84eb599-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 7004
+SHA256sum: 5f3174ffb466039560b5f6209418e2881c8583f6475f03288d8f316a523e0da0
+Description:  Lua binding for the OpenWrt RPC client
+
+Package: libubus20231128
+Version: 2023.11.28~f84eb599-r1
+Depends: libc, libubox20240329
+Provides: libubus
+Source: feeds/base/package/system/ubus
+SourceName: ubus
+License: LGPL-2.1
+Section: libs
+SourceDateEpoch: 1712395458
+ABIVersion: 20231128
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 30720
+Filename: libubus20231128_2023.11.28~f84eb599-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 10211
+SHA256sum: c9bf05074d339f9001c44d025f7db68ded0ac5391ffbd24c7ddb9c70029eb332
+Description:  OpenWrt RPC client library
+
+Package: libuci-lua
+Version: 2023.08.10~5781664d-r1
+Depends: libc, libuci20130104, liblua5.1.5
+Source: feeds/base/package/system/uci
+SourceName: uci
+License: LGPL-2.1
+Section: libs
+SourceDateEpoch: 1712395458
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 20480
+Filename: libuci-lua_2023.08.10~5781664d-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 6389
+SHA256sum: ded00f30e9477088cc83b74ed71b61dc8c5cef15471d2d8110475cbd2d536efd
+Description:  Lua plugin for UCI
+
+Package: libuci20130104
+Version: 2023.08.10~5781664d-r1
+Depends: libc, libubox20240329
+Provides: libuci
+Source: feeds/base/package/system/uci
+SourceName: uci
+License: LGPL-2.1
+Section: libs
+SourceDateEpoch: 1712395458
+ABIVersion: 20130104
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 40960
+Filename: libuci20130104_2023.08.10~5781664d-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 15862
+SHA256sum: b16ec7c39d541e96dc1a0dac767da2db6e997914a9ea8ce5cc1441bf9dfd06ba
+Description:  C library for the Unified Configuration Interface (UCI)
+
+Package: libucode20230711
+Version: 2024.05.09~0d823e70-r1
+Depends: libc, libjson-c5
+Provides: libucode
+Source: feeds/base/package/utils/ucode
+SourceName: ucode
+License: ISC
+Section: libs
+SourceDateEpoch: 1715209016
+ABIVersion: 20230711
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 143360
+Filename: libucode20230711_2024.05.09~0d823e70-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 67775
+SHA256sum: 01be00619dde2a68dcc6c22ef07a1b25d9151502d20dcb6280e0f0652668c570
+Description:  The libucode package provides the shared runtime library for the ucode interpreter.
+
+Package: libudebug
+Version: 2023.12.06~6d3f51f9
+Depends: libc, libubox20240329, libubus20231128
+Source: feeds/base/package/libs/udebug
+SourceName: udebug
+License: GPL-2.0
+Section: libs
+SourceDateEpoch: 1712395458
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 20480
+Filename: libudebug_2023.12.06~6d3f51f9_arm_cortex-a9_vfpv3-d16.ipk
+Size: 4323
+SHA256sum: 49631e2119d23a9abd13b4347504a1245c6ae3900f6d095f7e409788d5c70538
+Description:  udebug client library
+
+Package: libuuid1
+Version: 2.39.3-r1
+Depends: libc, librt
+Provides: libuuid
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: libs
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+ABIVersion: 1
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 30720
+Filename: libuuid1_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 12721
+SHA256sum: 1655d417814bc477b534a0169c6a7c52116901ada0c5ce58a7ea8804bb6f9ab2
+Description:  The UUID library is used to generate unique identifiers for objects
+ that may be accessible beyond the local system. This library
+ generates UUIDs compatible with those created by the Open Software
+ Foundation (OSF) Distributed Computing Environment (DCE) utility.
+
+Package: logd
+Version: 2024.04.26~85f10530-r1
+Depends: libc, libubox20240329, libubus20231128, libblobmsg-json20240329, libudebug
+Alternatives: 200:/sbin/logread:/usr/libexec/logread-ubox
+Source: feeds/base/package/system/ubox
+SourceName: ubox
+License: GPL-2.0
+Section: base
+Require-User: logd=514:logd=514
+SourceDateEpoch: 1714217653
+Maintainer: John Crispin <john@phrozen.org>
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 40960
+Filename: logd_2024.04.26~85f10530-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 12320
+SHA256sum: 3b3ee74809ae6a430475287d6d028b0c9ed6e9b99d4546529fc0a12829e88ed9
+Description:  OpenWrt system log implementation
+
+Package: logger
+Version: 2.39.3-r1
+Depends: libc, librt
+Alternatives: 200:/usr/bin/logger:/usr/bin/util-linux-logger
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 40960
+Filename: logger_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 16631
+SHA256sum: d4422a8b26eaa68d23b999cab22992a6b7803cb385b2d6c57fa527da4daf1b0e
+Description:  logger makes entries in the system log, it provides a shell command interface
+ to the syslog system log module
+
+Package: look
+Version: 2.39.3-r1
+Depends: libc, librt
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 20480
+Filename: look_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 4376
+SHA256sum: 6a3c7423f959540b2dafdb987b009fad6b495d6733dff480ca26ed00adb18590
+Description:  look utility displays any lines in file which contain string
+
+Package: losetup
+Version: 2.39.3-r1
+Depends: libc, libsmartcols1
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 102400
+Filename: losetup_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 43203
+SHA256sum: 1b8e791c94113d44c9b763a796aac74a71bacc28720e2fe6588767b01b1a5306
+Description:  losetup is used to associate loop devices with regular files or block devices,
+ to detach loop devices and to query the status of a loop device
+
+Package: lsblk
+Version: 2.39.3-r1
+Depends: libc, libblkid1, libmount1, libsmartcols1
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 153600
+Filename: lsblk_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 68017
+SHA256sum: 5dd282b2dbe18f7183148a9f8a65965879b0db7aefacff4924226fbc570c7ae4
+Description:  lsblk lists information about all or the specified block devices
+
+Package: lscpu
+Version: 2.39.3-r1
+Depends: libc, libsmartcols1
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 102400
+Filename: lscpu_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 49553
+SHA256sum: da7e3fb16fe948653f7a14b41e0d316e9b2d36432f8e4d472c13065ac7fb0905
+Description:  lscpu displays information about the CPU architecture
+
+Package: lslocks
+Version: 2.39.3-r1
+Depends: libc, libmount1, libsmartcols1
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 51200
+Filename: lslocks_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 22541
+SHA256sum: 7799985acaef00fe046fa5acb9295d3824d8571bf418892094c844f991801b78
+Description:  lslocks lists information about all the currently held file locks in a Linux system
+
+Package: lsns
+Version: 2.39.3-r1
+Depends: libc, libblkid1, libmount1, libsmartcols1
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 61440
+Filename: lsns_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 27189
+SHA256sum: 1ace813682666a652827f55c8d1e0faf582758585ef27a1352c5421f03479ff5
+Description:  lsns lists information about all namespaces and their processes
+
+Package: lua-examples
+Version: 5.1.5-r11
+Depends: libc, lua
+Source: feeds/base/package/utils/lua
+SourceName: lua
+License: MIT
+LicenseFiles: COPYRIGHT
+Section: lang
+SourceDateEpoch: 1708131321
+URL: https://www.lua.org/
+CPE-ID: cpe:/a:lua:lua
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 30720
+Filename: lua-examples_5.1.5-r11_arm_cortex-a9_vfpv3-d16.ipk
+Size: 6204
+SHA256sum: e913a675e95bffdfaee5c4e0085a9f786f1b55103ef70b44090b02d6f6fea932
+Description:  Lua is a powerful light-weight programming language designed for extending 
+ applications. Lua is also frequently used as a general-purpose, stand-alone 
+ language. Lua is free software.
+ This package contains Lua language examples.
+
+Package: lua
+Version: 5.1.5-r11
+Depends: libc, liblua5.1.5
+Source: feeds/base/package/utils/lua
+SourceName: lua
+License: MIT
+LicenseFiles: COPYRIGHT
+Section: lang
+SourceDateEpoch: 1708131321
+URL: https://www.lua.org/
+CPE-ID: cpe:/a:lua:lua
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 20480
+Filename: lua_5.1.5-r11_arm_cortex-a9_vfpv3-d16.ipk
+Size: 5510
+SHA256sum: 765dd77e75da167bc63908965758db7ff899e46a226dae2e0fa70dd579ba2f01
+Description:  Lua is a powerful light-weight programming language designed for extending 
+ applications. Lua is also frequently used as a general-purpose, stand-alone 
+ language. Lua is free software.
+ This package contains the Lua language interpreter.
+
+Package: luac
+Version: 5.1.5-r11
+Depends: libc, liblua5.1.5
+Source: feeds/base/package/utils/lua
+SourceName: lua
+License: MIT
+LicenseFiles: COPYRIGHT
+Section: lang
+SourceDateEpoch: 1708131321
+URL: https://www.lua.org/
+CPE-ID: cpe:/a:lua:lua
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 20480
+Filename: luac_5.1.5-r11_arm_cortex-a9_vfpv3-d16.ipk
+Size: 6261
+SHA256sum: 55d55ff8e9679beda8ed7e3aff4d793d118a52374ad96bcdda90fa678ef4adcf
+Description:  Lua is a powerful light-weight programming language designed for extending 
+ applications. Lua is also frequently used as a general-purpose, stand-alone 
+ language. Lua is free software.
+ This package contains the Lua language compiler.
+
+Package: mcookie
+Version: 2.39.3-r1
+Depends: libc, librt
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 30720
+Filename: mcookie_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 12633
+SHA256sum: 100871e42bbc6f376b28dda28d282c995f47c30a539f53fbdc93e74ca2592000
+Description:  mcookie generates a 128-bit random hexadecimal number for use with the X
+ authority system
+
+Package: more
+Version: 2.39.3-r1
+Depends: libc, libncurses6
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 40960
+Filename: more_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 19564
+SHA256sum: d99f60782c0e55c800cbea67686029e0d400181fa65b6fb9e0f5dd15d6da6480
+Description:  more is a filter for paging through text one screenful at a time
+
+Package: mount-utils
+Version: 2.39.3-r1
+Depends: libc, librt, libmount1, libsmartcols1
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 143360
+Filename: mount-utils_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 56778
+SHA256sum: b260d7e56bc0edd967415617c906163f8a39fb2ec215b13720906fa39715feb0
+Description:  contains: mount, umount, findmnt
+
+Package: namei
+Version: 2.39.3-r1
+Depends: libc, librt
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 30720
+Filename: namei_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 11118
+SHA256sum: 34dc39c2196cd671f47a8e82ded560884684bd1eb70c52ad1c4542348f2e7660
+Description:  namei uses its arguments as pathnames to any type of Unix file (symlinks,
+ files, directories, and so forth)
+
+Package: netifd
+Version: 2024.01.04~f01345ec-r1
+Depends: libc, libuci20130104, libnl-tiny1, libubus20231128, ubus, ubusd, jshn, libubox20240329, libudebug, ucode, ucode-mod-fs
+Source: feeds/base/package/network/config/netifd
+SourceName: netifd
+License: GPL-2.0
+Section: base
+SourceDateEpoch: 1714244392
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 235520
+Filename: netifd_2024.01.04~f01345ec-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 98041
+SHA256sum: dfbea3e558bbba823334ac4043bd770d4ad4bcdb5930e9c88aefe84be57602d8
+Description:  OpenWrt Network Interface Configuration Daemon
+
+Package: nsenter
+Version: 2.39.3-r1
+Depends: libc, librt
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 30720
+Filename: nsenter_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 13401
+SHA256sum: 18a67034767e5dc239271b370531b4bd53e3b9b6b6d8fd8cc95c95a46b7ef1e7
+Description:  run program with namespaces of other processes
+
+Package: openwrt-keyring
+Version: 2022.03.25~62471e69-r2
+Depends: libc
+Provides: lede-keyring
+Source: feeds/base/package/system/openwrt-keyring
+SourceName: openwrt-keyring
+License: GPL-2.0
+Section: base
+SourceDateEpoch: 1712395458
+URL: https://openwrt.org/docs/guide-user/security/signatures
+Maintainer: John Crispin <john@phrozen.org>
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 10240
+Filename: openwrt-keyring_2022.03.25~62471e69-r2_arm_cortex-a9_vfpv3-d16.ipk
+Size: 1144
+SHA256sum: 5d8a71d8369c8e19e64e62b0cbc07cd0e447bea3d7ec3c85bd5b3ec061e2af3c
+Description:  The keyring of with the developer using and gpg public keys.
+
+Package: partx-utils
+Version: 2.39.3-r1
+Depends: libc, libblkid1, libsmartcols1
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 133120
+Filename: partx-utils_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 52444
+SHA256sum: 2e44523215247e0ae4cf225edeae97a382741aae0390ef6de288ebe249767ff9
+Description:  contains partx, addpart, delpart
+
+Package: prlimit
+Version: 2.39.3-r1
+Depends: libc, libsmartcols1
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 30720
+Filename: prlimit_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 12634
+SHA256sum: aa051e4bcd94bc4645574496d05659b16abef800d0a8e06e749b4a3cbb66c9c0
+Description:  Given a process id and one or more resources, prlimit tries to retrieve
+ and/or modify the limits.
+
+Package: rename
+Version: 2.39.3-r1
+Depends: libc, librt
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 20480
+Filename: rename_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 5659
+SHA256sum: a2619d67890483bda9524c5bd75dc125f9e2d79f0261866efcf2963684cab890
+Description:  rename will rename the specified files by replacing the first occurrence of
+ expression in their name by replacement
+
+Package: rev
+Version: 2.39.3-r1
+Depends: libc, librt
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 20480
+Filename: rev_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 3820
+SHA256sum: 2b3be44ec93fc16bdb047b21345bf1cb0e04e6a73b6e7fbcc9c024616bc09f65
+Description:  rev utility copies the specified files to the standard output, reversing the
+ order of characters in every line. If no files are specified, the standard
+ input is read.
+
+Package: script-utils
+Version: 2.39.3-r1
+Depends: libc, librt
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 92160
+Filename: script-utils_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 38666
+SHA256sum: e632690b7fa1666a08962a23030d5ca249c85db18eebc1e11497beb1e4743d6a
+Description:  contains: script, scriptreplay
+
+Package: setterm
+Version: 2.39.3-r1
+Depends: libc, libncurses6
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 40960
+Filename: setterm_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 15648
+SHA256sum: 0d7965c9eb9a9869a005ad5bc5705ac4b86d7e9f0d080c073182a0cb5a150aa5
+Description:  setterm writes to standard output a character string that will invoke the
+ specified terminal capabilities
+
+Package: sfdisk
+Version: 2.39.3-r1
+Depends: libc, libblkid1, libfdisk1, libsmartcols1, libncursesw6
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 122880
+Filename: sfdisk_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 52826
+SHA256sum: 955b4bce0f19189f9ad9e695aad82d545abdc7a00151515f9cdbbce708ebc328
+Description:  list the size of a partition, list the partitions on a device, check the
+ partitions on a device and repartition a device
+
+Package: stun-client
+Version: 0.96-r6
+Depends: libc, libstdcpp6
+Source: feeds/base/network/stun
+SourceName: stund
+Section: net
+SourceDateEpoch: 1590546339
+URL: http://sourceforge.net/projects/stun
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 61440
+Filename: stun-client_0.96-r6_arm_cortex-a9_vfpv3-d16.ipk
+Size: 18115
+SHA256sum: 1f5b8b0af35a694d1b763a009b377326df7dc6d530f0d1ea2cff02ee96349213
+Description:  The STUN protocol (Simple Traversal of UDP through NATs) is described in the
+ IETF RFC 3489, available at http://www.ietf.org/rfc/rfc3489.txt. It's used to
+ help clients behind NAT to tunnel incoming calls through. This server is the
+ counterpart to help the client identify the NAT and have it open the proper
+ ports for it.
+
+Package: stund
+Version: 0.96-r6
+Depends: libc, libstdcpp6
+Source: feeds/base/network/stun
+SourceName: stund
+Section: net
+SourceDateEpoch: 1590546339
+URL: http://sourceforge.net/projects/stun
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 61440
+Filename: stund_0.96-r6_arm_cortex-a9_vfpv3-d16.ipk
+Size: 17884
+SHA256sum: b8e3ed9c3b87a7b14e34c8645e7bf59a5ba329b7e96c19eebce4754ba8ad9188
+Description:  The STUN protocol (Simple Traversal of UDP through NATs) is described in the
+ IETF RFC 3489, available at http://www.ietf.org/rfc/rfc3489.txt. It's used to
+ help clients behind NAT to tunnel incoming calls through. This server is the
+ counterpart to help the client identify the NAT and have it open the proper
+ ports for it.
+
+Package: swap-utils
+Version: 2.39.3-r1
+Depends: libc, librt, libblkid1
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 102400
+Filename: swap-utils_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 46868
+SHA256sum: 82ff2057b88870461c686e7ab28ff35774b382d726ba9e70f483310bee20361b
+Description:  contains: mkswap, swaplabel
+
+Package: taskset
+Version: 2.39.3-r1
+Depends: libc, librt
+Alternatives: 200:/usr/bin/taskset:/usr/bin/util-linux-taskset
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 51200
+Filename: taskset_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 19816
+SHA256sum: dbca2f9512afb284fcea333c6ec664ec1704cb9f95df7d4b56d80a98bcd69ba3
+Description:  contains: taskset
+
+Package: terminfo
+Version: 6.4-r2
+Depends: libc
+Source: feeds/base/package/libs/ncurses
+SourceName: ncurses
+License: MIT
+LicenseFiles: README
+Section: libs
+SourceDateEpoch: 1677370322
+URL: http://www.gnu.org/software/ncurses/
+CPE-ID: cpe:/a:gnu:ncurses
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 61440
+Filename: terminfo_6.4-r2_arm_cortex-a9_vfpv3-d16.ipk
+Size: 8924
+SHA256sum: c59e5b3a009225dddb03170f5dc9030ee0afd592ac4fd182b06c352a5eab32f3
+Description:  Terminal Info Database (ncurses)
+
+Package: ubox
+Version: 2024.04.26~85f10530-r1
+Depends: libc, libubox20240329, ubusd, ubus, libubus20231128, libuci20130104
+Alternatives: 100:/sbin/rmmod:/sbin/kmodloader, 100:/sbin/insmod:/sbin/kmodloader, 100:/sbin/lsmod:/sbin/kmodloader, 100:/sbin/modinfo:/sbin/kmodloader, 100:/sbin/modprobe:/sbin/kmodloader
+Source: feeds/base/package/system/ubox
+SourceName: ubox
+License: GPL-2.0
+Section: base
+SourceDateEpoch: 1714217653
+Maintainer: John Crispin <john@phrozen.org>
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 51200
+Filename: ubox_2024.04.26~85f10530-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 16686
+SHA256sum: 4394fdba390dd36f1ac2da9ba6b149d1adb0def132073462878ef39e5414729d
+Description:  OpenWrt system helper toolbox
+
+Package: ubus
+Version: 2023.11.28~f84eb599-r1
+Depends: libc, libubus20231128, libblobmsg-json20240329, ubusd
+Source: feeds/base/package/system/ubus
+SourceName: ubus
+License: LGPL-2.1
+Section: base
+SourceDateEpoch: 1712395458
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 20480
+Filename: ubus_2023.11.28~f84eb599-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 6455
+SHA256sum: 956888be0ffead7b54ac101d844ef69e1296723394a61611e9fd31862541f328
+Description:  OpenWrt RPC client utility
+
+Package: ubusd
+Version: 2023.11.28~f84eb599-r1
+Depends: libc, libubox20240329, libblobmsg-json20240329
+Source: feeds/base/package/system/ubus
+SourceName: ubus
+License: LGPL-2.1
+Section: base
+Require-User: ubus=81:ubus=81
+SourceDateEpoch: 1712395458
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 30720
+Filename: ubusd_2023.11.28~f84eb599-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 11811
+SHA256sum: 49787ac931b5f5732ad9948c3fecc1c772464ebbb9f9d7f25731f7997f9e488e
+Description:  OpenWrt RPC daemon
+
+Package: ucert-full
+Version: 2020.05.24~00b921d8-r1
+Depends: libc, usign, libubox20240329, libjson-c5, libblobmsg-json20240329
+Provides: ucert
+Source: feeds/base/package/system/ucert
+SourceName: ucert
+License: GPL-3.0+
+LicenseFiles: COPYING
+Section: base
+SourceDateEpoch: 1712395458
+Maintainer: Daniel Golle <daniel@makrotopia.org>
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 20480
+Filename: ucert-full_2020.05.24~00b921d8-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 7963
+SHA256sum: da1f9c86749df050de1c9f44b90740b7e88538bdedb1789685d986295bd268d1
+Description:  OpenWrt certificate generation and verification utility
+
+Package: ucert
+Version: 2020.05.24~00b921d8-r1
+Depends: libc, usign, libubox20240329
+Conflicts: ucert-full
+Source: feeds/base/package/system/ucert
+SourceName: ucert
+License: GPL-3.0+
+LicenseFiles: COPYING
+Section: base
+SourceDateEpoch: 1712395458
+Maintainer: Daniel Golle <daniel@makrotopia.org>
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 20480
+Filename: ucert_2020.05.24~00b921d8-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 5532
+SHA256sum: 885f3545695c055b8d5d22e58bcbba71e91f56b22eece84314ec125afc4bfd91
+Description:  OpenWrt certificate verification utility
+
+Package: uci
+Version: 2023.08.10~5781664d-r1
+Depends: libc, libuci20130104
+Source: feeds/base/package/system/uci
+SourceName: uci
+License: LGPL-2.1
+Section: base
+SourceDateEpoch: 1712395458
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 30720
+Filename: uci_2023.08.10~5781664d-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 7631
+SHA256sum: 5fa094a16280080561df5926a3f2d90967ed69d2c7a6e6bcb267f73cfc596100
+Description:  Utility for the Unified Configuration Interface (UCI)
+
+Package: ucode-mod-debug
+Version: 2024.05.09~0d823e70-r1
+Depends: libc, ucode, libubox20240329, libucode20230711
+Source: feeds/base/package/utils/ucode
+SourceName: ucode
+License: ISC
+Section: lang
+SourceDateEpoch: 1715209016
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 20480
+Filename: ucode-mod-debug_2024.05.09~0d823e70-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 8619
+SHA256sum: 6db61bbd1af5a80680633481beeeaf853155144d3ee3f96f0050db4d71121864
+Description:  The debug plugin module provides runtime debugging and introspection facilities.
+
+Package: ucode-mod-fs
+Version: 2024.05.09~0d823e70-r1
+Depends: libc, ucode
+Source: feeds/base/package/utils/ucode
+SourceName: ucode
+License: ISC
+Section: lang
+SourceDateEpoch: 1715209016
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 30720
+Filename: ucode-mod-fs_2024.05.09~0d823e70-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 9458
+SHA256sum: ac97965a895ba5627bc66e17d6c8787bcad8b689c162b239365bd752c13fe2ed
+Description:  The filesystem plugin module allows interaction with the local file system.
+
+Package: ucode-mod-log
+Version: 2024.05.09~0d823e70-r1
+Depends: libc, ucode, libubox20240329
+Source: feeds/base/package/utils/ucode
+SourceName: ucode
+License: ISC
+Section: lang
+SourceDateEpoch: 1715209016
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 20480
+Filename: ucode-mod-log_2024.05.09~0d823e70-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 4556
+SHA256sum: ffb882ac219fc20b31f0e141a1ca41d9e71446d04d9eee2cda136c80b9e9e3b3
+Description:  The log plugin module provides access to the syslog and libubox ulog APIs.
+
+Package: ucode-mod-math
+Version: 2024.05.09~0d823e70-r1
+Depends: libc, ucode
+Source: feeds/base/package/utils/ucode
+SourceName: ucode
+License: ISC
+Section: lang
+SourceDateEpoch: 1715209016
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 20480
+Filename: ucode-mod-math_2024.05.09~0d823e70-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 3065
+SHA256sum: 847811b0132a106f1b6bca34fcd4b307fe94f4e86361bd83aa0f56e5a46438ab
+Description:  The math plugin provides access to various <math.h> procedures.
+
+Package: ucode-mod-nl80211
+Version: 2024.05.09~0d823e70-r1
+Depends: libc, ucode, libnl-tiny1, libubox20240329
+Source: feeds/base/package/utils/ucode
+SourceName: ucode
+License: ISC
+Section: lang
+SourceDateEpoch: 1715209016
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 61440
+Filename: ucode-mod-nl80211_2024.05.09~0d823e70-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 19599
+SHA256sum: e9f8fac458fd9d3fde1a44e0dc527e0bea0228c61d66ff1cd7d65f69c536dc70
+Description:  The nl80211 plugin provides access to the Linux wireless 802.11 netlink API.
+
+Package: ucode-mod-resolv
+Version: 2024.05.09~0d823e70-r1
+Depends: libc, ucode
+Source: feeds/base/package/utils/ucode
+SourceName: ucode
+License: ISC
+Section: lang
+SourceDateEpoch: 1715209016
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 20480
+Filename: ucode-mod-resolv_2024.05.09~0d823e70-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 8165
+SHA256sum: f4c9083e5abe6caf27c4ec32fd6f3887ac7752ab5a74388af8de359e1edd1c47
+Description:  The resolv plugin implements simple DNS resolving.
+
+Package: ucode-mod-rtnl
+Version: 2024.05.09~0d823e70-r1
+Depends: libc, ucode, libnl-tiny1, libubox20240329
+Source: feeds/base/package/utils/ucode
+SourceName: ucode
+License: ISC
+Section: lang
+SourceDateEpoch: 1715209016
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 81920
+Filename: ucode-mod-rtnl_2024.05.09~0d823e70-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 27313
+SHA256sum: af8e6cccd017aeb9768d946189ccd5b61da63f764ffa02d51fc6b48ba05e58cd
+Description:  The rtnl plugin provides access to the Linux routing netlink API.
+
+Package: ucode-mod-socket
+Version: 2024.05.09~0d823e70-r1
+Depends: libc, ucode
+Source: feeds/base/package/utils/ucode
+SourceName: ucode
+License: ISC
+Section: lang
+SourceDateEpoch: 1715209016
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 51200
+Filename: ucode-mod-socket_2024.05.09~0d823e70-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 17900
+SHA256sum: a5346239970815e6bc6df286de3c6f8b6ae0d2287cdf86806fe9d6e5346341b1
+Description:  The socket plugin provides access to IPv4
+
+Package: ucode-mod-struct
+Version: 2024.05.09~0d823e70-r1
+Depends: libc, ucode
+Source: feeds/base/package/utils/ucode
+SourceName: ucode
+License: ISC
+Section: lang
+SourceDateEpoch: 1715209016
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 30720
+Filename: ucode-mod-struct_2024.05.09~0d823e70-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 9206
+SHA256sum: c634097513d766e97890ce4396329f8d55305fd3e9f4884f538cacbca020c7d5
+Description:  The struct plugin implements Python 3 compatible struct.pack/unpack functionality.
+
+Package: ucode-mod-ubus
+Version: 2024.05.09~0d823e70-r1
+Depends: libc, ucode, libubus20231128, libblobmsg-json20240329
+Source: feeds/base/package/utils/ucode
+SourceName: ucode
+License: ISC
+Section: lang
+SourceDateEpoch: 1715209016
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 40960
+Filename: ucode-mod-ubus_2024.05.09~0d823e70-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 13203
+SHA256sum: 0643209687f1ce6123b3b0b80d72a71a03d686eac07c2006aa28ddffd5cc78aa
+Description:  The ubus module allows ucode template scripts to enumerate and invoke ubus procedures.
+
+Package: ucode-mod-uci
+Version: 2024.05.09~0d823e70-r1
+Depends: libc, ucode, libuci20130104
+Source: feeds/base/package/utils/ucode
+SourceName: ucode
+License: ISC
+Section: lang
+SourceDateEpoch: 1715209016
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 20480
+Filename: ucode-mod-uci_2024.05.09~0d823e70-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 7214
+SHA256sum: a4faca281452d210000dd769473dc9c42c02274605e25f9107f8d6c4ffd227e4
+Description:  The uci module allows templates to read and modify uci configuration.
+
+Package: ucode-mod-udebug
+Version: 2023.12.06~6d3f51f9
+Depends: libc, libucode20230711, libudebug
+Source: feeds/base/package/libs/udebug
+SourceName: udebug
+License: GPL-2.0
+Section: utils
+SourceDateEpoch: 1712395458
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 20480
+Filename: ucode-mod-udebug_2023.12.06~6d3f51f9_arm_cortex-a9_vfpv3-d16.ipk
+Size: 6900
+SHA256sum: a69b76cad2ec05745019614fe362ec4fe752eabf4a6abe70d3c4839456b396b0
+Description:  ucode udebug module
+
+Package: ucode-mod-uloop
+Version: 2024.05.09~0d823e70-r1
+Depends: libc, ucode, libubox20240329
+Source: feeds/base/package/utils/ucode
+SourceName: ucode
+License: ISC
+Section: lang
+SourceDateEpoch: 1715209016
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 30720
+Filename: ucode-mod-uloop_2024.05.09~0d823e70-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 8555
+SHA256sum: cb715472f7143b301a3e94dd71a16b93c133b7fe9638547d1e4953653e48a9dc
+Description:  The uloop module allows ucode scripts to interact with OpenWrt uloop event loop implementation.
+
+Package: ucode
+Version: 2024.05.09~0d823e70-r1
+Depends: libc, libucode20230711
+Source: feeds/base/package/utils/ucode
+SourceName: ucode
+License: ISC
+Section: lang
+SourceDateEpoch: 1715209016
+Maintainer: Jo-Philipp Wich <jo@mein.io>
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 20480
+Filename: ucode_2024.05.09~0d823e70-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 7231
+SHA256sum: 264d1ddb467b040e57b4aba793d4a6356f369a40c775ef90de8ce73d6ef6a2cb
+Description:  ucode is a tiny script interpreter featuring an ECMAScript oriented
+ script language and Jinja-inspired templating.
+
+Package: udebug-cli
+Version: 2023.12.06~6d3f51f9
+Depends: libc, udebugd, ucode-mod-udebug
+Source: feeds/base/package/libs/udebug
+SourceName: udebug
+License: GPL-2.0
+Section: utils
+SourceDateEpoch: 1712395458
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 10240
+Filename: udebug-cli_2023.12.06~6d3f51f9_arm_cortex-a9_vfpv3-d16.ipk
+Size: 2782
+SHA256sum: 40c1cae2cbf2513bff9955c90eefe665430e8ccc43e3b32675141d336a667e8d
+Description:  OpenWrt debug service CLI
+
+Package: udebugd
+Version: 2023.12.06~6d3f51f9
+Depends: libc, libudebug
+Source: feeds/base/package/libs/udebug
+SourceName: udebug
+License: GPL-2.0
+Section: utils
+SourceDateEpoch: 1712395458
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 30720
+Filename: udebugd_2023.12.06~6d3f51f9_arm_cortex-a9_vfpv3-d16.ipk
+Size: 8627
+SHA256sum: 8026b15f016aec17600aeea3021e2ef95473b811a9f6705bb18da7e6782951f4
+Description:  OpenWrt debug service
+
+Package: unshare
+Version: 2.39.3-r1
+Depends: libc, librt
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 61440
+Filename: unshare_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 26300
+SHA256sum: 6df4fadededd4ce9b6ec9902e9c902a900e14f7b070cde665e5114b072df12c6
+Description:  run programs with some namespaces unshared from parent
+
+Package: usign
+Version: 2020.05.23~f1f65026-r1
+Depends: libc, libubox20240329
+Source: feeds/base/package/system/usign
+SourceName: usign
+License: ISC
+Section: base
+SourceDateEpoch: 1712395458
+Maintainer: Felix Fietkau <nbd@nbd.name>
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 30720
+Filename: usign_2020.05.23~f1f65026-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 11888
+SHA256sum: d63c5638e67b5f72d832298ecbbcc53f9056f7667cd9f25b097701077d36f34b
+Description:  OpenWrt signature verification utility
+
+Package: uuidd
+Version: 2.39.3-r1
+Depends: libc, libuuid1
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 40960
+Filename: uuidd_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 14942
+SHA256sum: 6cd433993c5c96293cc2394cdb724fd411a5cf5c93fcfafc2c1c17eaa89f07f1
+Description:  The uuidd daemon is used by the UUID library to generate universally unique
+ identifiers (UUIDs), especially time-based UUIDs, in a secure and
+ guaranteed-unique fashion, even in the face of large numbers of threads
+ running on different CPUs trying to grab UUIDs.
+
+Package: uuidgen
+Version: 2.39.3-r1
+Depends: libc, libuuid1
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 20480
+Filename: uuidgen_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 4514
+SHA256sum: 21243dfa0ec4d1a04e679dd024d11783c70dd709502b3eb04c5845a2926a907a
+Description:  The uuidgen program creates (and prints) a new universally unique identifier
+ (UUID) using the libuuid library. The new UUID can reasonably be considered
+ unique among all UUIDs created on the local system, and among UUIDs created on
+ other systems in the past and in the future.
+
+Package: wall
+Version: 2.39.3-r1
+Depends: libc, librt
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 30720
+Filename: wall_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 12478
+SHA256sum: 1093432a319c2621c717fe1e619d423ef6534e65954cf473fc671a7ea53af8f1
+Description:  wall sends a message to everybody logged in with their mesg permission
+ set to yes
+
+Package: whereis
+Version: 2.39.3-r1
+Depends: libc, librt
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 20480
+Filename: whereis_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 9247
+SHA256sum: c9252f8cfec1763dc201cc67c8d657df4a8370778f7f707acdb4f99396fdc172
+Description:  whereis locates source/binary and manuals sections for specified files
+
+Package: wipefs
+Version: 2.39.3-r1
+Depends: libc, libblkid1, libsmartcols1
+Source: feeds/base/package/utils/util-linux
+SourceName: util-linux
+License: GPL-2.0-only
+LicenseFiles: COPYING libblkid/COPYING libmount/COPYING Documentation/licenses/COPYING.GPLv2 Documentation/licenses/COPYING.LGPLv2.1 libuuid/COPYING Documentation/licenses/COPYING.BSD-3
+Section: utils
+SourceDateEpoch: 1702306413
+URL: http://www.kernel.org/pub/linux/utils/util-linux/
+CPE-ID: cpe:/a:kernel:util-linux
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 40960
+Filename: wipefs_2.39.3-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 16157
+SHA256sum: e7e4aa84e1a656dc7c613cc3e7e5952ae1f7c7eba85ae11d357ef7966b92db6d
+Description:  wipefs can erase filesystem, raid or partition table signatures (magic
+ strings) from the specified device to make the signature invisible for
+ libblkid.
+
+Package: zlib-dev
+Version: 1.3.1-r1
+Depends: libc, zlib
+Source: feeds/base/package/libs/zlib
+SourceName: zlib
+License: Zlib
+LicenseFiles: README
+Section: devel
+SourceDateEpoch: 1706891189
+CPE-ID: cpe:/a:gnu:zlib
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 215040
+Filename: zlib-dev_1.3.1-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 73764
+SHA256sum: 132431550f53d4546fc98a615ce979aef00042961bbb88f65c74c63b3c2f8d1b
+Description:  zlib is a lossless data-compression library.
+ This package includes the development support files.
+
+Package: zlib
+Version: 1.3.1-r1
+Depends: libc
+Source: feeds/base/package/libs/zlib
+SourceName: zlib
+License: Zlib
+LicenseFiles: README
+Section: libs
+SourceDateEpoch: 1706891189
+URL: http://www.zlib.net/
+CPE-ID: cpe:/a:gnu:zlib
+Architecture: arm_cortex-a9_vfpv3-d16
+Installed-Size: 81920
+Filename: zlib_1.3.1-r1_arm_cortex-a9_vfpv3-d16.ipk
+Size: 38059
+SHA256sum: d72142c6529af6cc8aaefde93118a8756b02400ba07e74506103ca1ce1a75e10
+Description:  zlib is a lossless data-compression library.
+ This package includes the shared library.
+
